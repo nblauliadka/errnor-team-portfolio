@@ -12,7 +12,7 @@ The official team portfolio and product showcase for **Team ERRNOR**, competing 
 **Layanan Utang & Navigasi Aset Sistematis**
 An AI-driven behavioral nudging and liability optimization platform. Designed to rescue the younger generation from predatory debt traps while accelerating retail investment via SNAP BI integration.
 
-## ✨ Key Features of this Web App
+## ✨ Key Features of this App
 - **Interactive Financial Demo:** Real-time React state management calculating debt-to-income projections.
 - **Dynamic Team Roster:** Custom-built interactive carousel and modal system to showcase team expertise.
 - **Immersive UI/UX:** Advanced Tailwind styling, CSS keyframe animations, glassmorphism, and seamless dark/light mode integration.
